@@ -15,6 +15,7 @@ Patch0:		logitech_applet-0.4-mx518.patch.bz2
 Patch1:		logitech_applet-0.4-verbose-report.patch.bz2
 URL:		http://freshmeat.net/projects/logitech_applet/
 BuildRequires:  libusb0.1-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Logitech Mouse Applet is a small command line tool for setting 
