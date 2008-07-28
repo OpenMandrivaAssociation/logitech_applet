@@ -1,6 +1,6 @@
 %define name logitech_applet
 %define version 0.4test1
-%define release  %mkrel 2
+%define release  %mkrel 4
 
 Name:		%{name}
 Version:	%{version}
