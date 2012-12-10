@@ -1,2 +1,4 @@
 sources:
-  "logitech_applet-0.4test1.tar.bz2:"	9331790846e3a9e590cba19a94c285100140409c
+  "logitech_applet-0.4-mx518.patch.bz2": 9319a8b79fe1252a288404fcb3fa485a13b80a06
+  "logitech_applet-0.4-verbose-report.patch.bz2": 195fc7d8c6cf1bde5fb3ef8833bbd0fb354a8e91
+  "logitech_applet-0.4test1.tar.bz2": 9331790846e3a9e590cba19a94c285100140409c
