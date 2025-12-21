@@ -14,6 +14,11 @@ Patch0:		logitech_applet-0.4-mx518.patch.bz2
 # (abel) More verbose error reporting for smart scroll
 Patch1:		logitech_applet-0.4-verbose-report.patch.bz2
 URL:		https://freshmeat.net/projects/logitech_applet/
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  libusb0.1-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
